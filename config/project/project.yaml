@@ -1,0 +1,27 @@
+dateModified: 1647881691
+email:
+  fromEmail: nathanbate81@gmail.com
+  fromName: 'Craft Demo'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    24d4eab0-c9a5-43bd-b8bc-1790bf6875ef: 'Craft Demo' # Craft Demo
+    4494253e-74a3-4323-a9d0-96d191eeccbc: 'Craft Demo' # Craft Demo
+    c273fdf0-e954-405a-9fd9-7d213ba86157: Common # Common
+plugins:
+  cp-style-guide:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+system:
+  edition: solo
+  live: true
+  name: 'Craft Demo'
+  schemaVersion: 3.7.33
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
